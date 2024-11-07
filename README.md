@@ -1,4 +1,14 @@
-👋 Hi, I’m Jay Patel.
+<h1 align="center">Hi 👋, I'm JAY PATEL</h1>
+<h3 align="center">Lead Automation Expert (Lead SQA)</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views"/>
+</p>
+<p align="center">
+  <a href="https://github.com/JayPatelSQA">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/jay-patel269">LinkedIn</a>
+</p>
+
+
 
 🔭 I’m currently working on Playwright, Selenium, Ready API Automation Testing & Manual Testing
 
@@ -18,6 +28,12 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,jenkins,mysql,vscode&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,html,css,cypress,dotnet,eclipse,github,gitlab,idea,py,selenium)](https://skillicons.dev)
 
 ## 🛠 Technical Skills:
+
+### Manual Testing and Testing Fundamentals
+- **Comprehensive Test Case Design**: Experienced in creating detailed and effective test cases that cover various testing scenarios, including functional, regression, smoke, sanity, and exploratory testing.
+- **Defect Tracking and Management**: Skilled in defect lifecycle management, including identifying, documenting, and tracking bugs, working with development teams to ensure efficient resolution.
+- **Test Planning and Strategy Development**: Proficient in developing test plans and strategies tailored to project requirements, ensuring test coverage aligns with business needs.
+- **User Acceptance Testing (UAT)**: Experienced in preparing UAT test artifacts and conducting UAT, closely working with stakeholders to validate that the final product meets user expectations.
 
 ### Programming Languages
 - **JavaScript, Java, C#, TypeScript** – Proficient in programming languages commonly used for building and maintaining test automation frameworks.
@@ -41,9 +57,6 @@
 ### Project & Test Management
 - **JIRA, HP ALM, TestRail, Confluence** – Experienced in managing test cases, documenting test plans, and tracking project progress, ensuring clear communication with stakeholders.
 
-![Playwright](https://img.shields.io/badge/Playwright-2D2D2D?style=for-the-badge&logo=microsoft)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-30A14E?style=for-the-badge)
 <!---
 JayPatelSQA/JayPatelSQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

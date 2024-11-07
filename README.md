@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views"/>
 </p>
 <p align="center">
-  <a href="https://github.com/JayPatelSQA">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/jay-patel269">LinkedIn</a>
+ 
 </p>
 
 
@@ -24,7 +23,9 @@
 
 📄 Know about my experiences http://linkedin.com/in/jay-patel269
 
-## ![icons8-language-16](https://github.com/user-attachments/assets/9dd28026-e986-4fb9-8e4a-1a5ed8982a97)   Languages and Tools:
+&nbsp;![icons8-passport-16](https://github.com/user-attachments/assets/ba834e87-4798-4213-922a-2cb1f3ba6793) Nationality Canadian Citizen
+
+## ![icons8-language-16](https://github.com/user-attachments/assets/9dd28026-e986-4fb9-8e4a-1a5ed8982a97) &nbsp;Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,jenkins,mysql,vscode&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,html,css,cypress,dotnet,eclipse,github,gitlab,idea,py,selenium)](https://skillicons.dev)
 
 ## 🛠 Technical Skills:
@@ -40,11 +41,11 @@
 
 ### Automation Frameworks & Tools
 - **Playwright** – Extensive experience using Playwright for test automation, including building comprehensive end-to-end testing for web applications.
-- **Selenium WebDriver** – Skilled in creating and executing automation scripts, with experience in data-driven frameworks and regression testing.
+- **Selenium WebDriver** – Skilled in creating and executing automation scripts, with experience in data-driven, page object model frameworks and regression testing.
 - **Rest Assured** – Proficient in API testing with Rest Assured, covering diverse cases such as response validation, error handling, and integration testing.
 
 ### CI/CD and DevOps
-- **Azure DevOps, Jenkins, Docker** – Experience setting up CI/CD pipelines, facilitating smooth and frequent releases, and integrating automated testing into deployment workflows.
+- **Azure DevOps, AWS, Jenkins, Docker** – Experience setting up CI/CD pipelines, facilitating smooth and frequent releases, and integrating automated testing into deployment workflows.
 
 ### Testing Tools and Platforms
 - **Saucelabs, BrowserStack** – Used for cross-browser and cross-platform testing, ensuring applications perform optimally on all targeted devices.

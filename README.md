@@ -52,11 +52,13 @@
 ### Project & Test Management
 - **JIRA, HP ALM, TestRail, Confluence** – Experienced in managing test cases, documenting test plans, and tracking project progress, ensuring clear communication with stakeholders.
 
+### 🧩 Interests
+- **Software Quality & Automation**: Exploring frameworks and tools like Selenium, Playwright, and Rest Assured.
+- **Emerging Tech**: AI-driven testing solutions and test automation innovation.
+- **Professional Development**: Studying **Data Analyst** to bring new perspectives to my work.
+- **Entrepreneurship**: Interested in launching a drop-servicing business in Canada.
 
 ## 🛠 Clients:
-
-
-
 <img src="https://github.com/user-attachments/assets/fe21703c-0d3f-4751-8e04-2d4eb8bbde7e" width="117" height="66" /> 
 <img src="https://github.com/user-attachments/assets/0357568c-4ade-4739-a973-5bca412b6e42" width="117" height="66" /> 
 <img src="https://github.com/user-attachments/assets/58426fe8-2691-475c-a4bc-a439348d14ea" width="117" height="66" />
@@ -67,7 +69,9 @@
 <img src="https://github.com/user-attachments/assets/68f4eea2-a886-4c19-84f9-4b8d72571147" width="117" height="66" />
 <img src="https://github.com/user-attachments/assets/aeebece4-d067-4372-804b-6b75f3e08569" width="117" height="66" />
 
+## 📫 How to Reach Me
 
+I'm always open to networking and discussing potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jay-patel269) or drop an email at **jaypsqa@gmail.com**.
 
 
 

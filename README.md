@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm JAY PATEL</h1>
 <h3 align="center">Lead Automation Expert (Lead SQA)</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views"/>
-</p>
-<p align="center">
- 
-</p>
 
 
 
